@@ -23,4 +23,5 @@ Photoshop
 
 A bit about me
 I love anime -- Tokyo Ghoul is a favorite
+
 I like building simple things that i enjoy mostly.
