@@ -1,16 +1,26 @@
-## Hi there 👋
+Konbawa 👋
 
-<!--
-**pyksuki/pyksuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dy, a Network engineer and Newbie in cyber security and a part-time editor based in Portugal.
 
-Here are some ideas to get you started:
+I mostly work on monitoring traffic and creating network --- Cisco, Linux, CheckPoint.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+This is a fresh profile where I'll be uploading some of my own projects and interests, experimets, and thing im working on.
+Everything is build fromscratch.
+
+
+
+**Tools and Tech**
+
+Cisco
+Linux
+Checkpoint
+After Effects
+Photoshop
+
+
+
+A bit about me
+I love anime -- Tokyo Ghoul is a favorite
+I like building simple things that i enjoy mostly.
