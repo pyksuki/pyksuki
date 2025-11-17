@@ -27,6 +27,12 @@ Photoshop
 A bit about me
 I love anime -- Tokyo Ghoul is a favorite
 
+Currently studying japanese
+
+I'm addicted to reading
+
+Philosophy is the go to
+
 I like building simple things that i enjoy mostly.
 
 
